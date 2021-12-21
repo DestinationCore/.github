@@ -17,5 +17,8 @@ To ensure the reviewer can effectively review your pull request. Please write a 
 ### Fixed
 - Code you fixed
 
+### Removed
+- Code you removed
+
 ### Security
 - Security vulnerabilities you patched
