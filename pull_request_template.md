@@ -1,3 +1,6 @@
+### Junior Review:
+Whether this PR is appropriate for a junior developer to review. (Y/N)
+
 ### Context:
 To ensure the reviewer can effectively review your pull request. Please write a few sentences that describe:
 - Why this PR is necessary
