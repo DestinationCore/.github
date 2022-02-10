@@ -1,2 +1,2 @@
 # .github
-You found a secret!
+Organisation-wide templates for DestinationCore
