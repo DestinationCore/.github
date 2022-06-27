@@ -5,8 +5,8 @@ To ensure the reviewer can effectively review your pull request. Please write a 
 - How you achieved it
 - Any other important information
 
--Review branch URL:
--Design(s) URL:
+- Review branch URL:
+- Design(s) URL:
 
 ### Added:
 - Code you added
