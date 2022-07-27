@@ -1,4 +1,4 @@
-### Context:
+### Context
 To ensure the reviewer can effectively review your pull request. Please write a few sentences that describe:
 - Why this PR is necessary
 - What you're attempting to achieve
@@ -8,19 +8,19 @@ To ensure the reviewer can effectively review your pull request. Please write a 
 - Review branch URL:
 - Design(s) URL:
 
-### Added:
+### Added
 - Code you added
 
-### Changed:
+### Changed
 - Code you changed
 
-### Updated:
+### Updated
 - Code you updated
 
-### Fixed:
+### Fixed
 - Code you fixed
 
-### Removed:
+### Removed
 - Code you removed
 
 ### Security:
