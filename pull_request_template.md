@@ -23,5 +23,5 @@ To ensure the reviewer can effectively review your pull request. Please write a 
 ### Removed
 - Code you removed
 
-### Security:
+### Security
 - Security vulnerabilities you patched
