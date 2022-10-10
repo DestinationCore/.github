@@ -8,6 +8,9 @@ To ensure the reviewer can effectively review your pull request. Please write a 
 - Review branch URL:
 - Design(s) URL:
 
+### Junior Review
+Yes / No
+
 ### Added
 - Code you added
 
